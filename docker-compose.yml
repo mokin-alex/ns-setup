@@ -2,7 +2,7 @@ version: '3.9'
 
 x-ns-common-env: &ns-common-env
   NODE_ENV: production
-  TZ: Europe/Moscow
+  TZ: Asia/Yekaterinburg
   TIME_FORMAT: 24
   INSECURE_USE_HTTP: 'true'
   ENABLE: basal iob cob boluscalc cage sage iage bage pump openaps pushover bgi food rawbg
